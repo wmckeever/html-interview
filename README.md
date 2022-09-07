@@ -30,4 +30,3 @@ We'll create a section on the page for each student's answers.
   * Under the link, add an image of the student, set the image's height to `250px`
   * And finally, create an ordered list that contains a list item for each question and answer
     * Each question and answer should be stored in a single list item element (`<li>`)
-    * The question part of the list item should be bolded
