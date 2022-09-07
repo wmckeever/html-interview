@@ -42,4 +42,8 @@ a {
   text-align: center;
 }
 
+hr {
+  color: grey;
+  box-shadow: 5px 5px 15px 5px #000000;
+}
 /* I fufilled the requirements of the stretch goals by adding a shadow around the <div> element. However you can't see it well because of the dark background I chose. So in addition I added a shadow to the image elements. */
