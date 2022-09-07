@@ -1,6 +1,5 @@
 div {
-  align: left;
-  border: 3px solid blue;
+  border: 3px solid grey;
   padding: 25px;
   box-shadow: 5px 5px 15px 5px #000000;
   background-color: whitesmoke;
@@ -15,7 +14,6 @@ h1, h2 {
 }
 
 img {
-  align: left;
   border-radius: 50px;
   box-shadow: 5px 5px 15px 5px #000000;
   height: 350px;
@@ -35,6 +33,7 @@ li {
 ol {
   color:aliceblue;
   text-align: center;
+  font-size: 18px;
 }
 
 a {
