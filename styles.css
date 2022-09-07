@@ -1,3 +1,17 @@
-ul ol li {
-  font-size: auto;
+div {
+  border: blue;
+  padding: 25px;
+}
+
+h1 h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+  border-radius: 50px;
+}
+
+li {
+  margin: 10px;
+  font-style: italic;
 }
