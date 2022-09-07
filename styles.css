@@ -1,9 +1,14 @@
+
 div {
-  border: blue;
+  align-content: center;
+  border-color: 25px blue;
   padding: 25px;
+  box-shadow: 5px 5px 15px 5px #000000;
+  background-color: cornsilk;
 }
 
-h1 h2 {
+h1, h2 {
+  color:aliceblue;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -14,4 +19,17 @@ img {
 li {
   margin: 10px;
   font-style: italic;
+  color: aliceblue;
+}
+
+#title {
+  border-radius: 3px red;
+}
+
+ol {
+  color:aliceblue;
+}
+
+a{
+  color: aliceblue;
 }
