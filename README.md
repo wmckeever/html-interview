@@ -27,6 +27,6 @@ We'll create a section on the page for each student's answers.
 * Inside each `<div>`
   * Create a header (either `<h1>`, `<h2>`, etc) with the student's name
   * Under the header, create an anchor tag that links to the student's GitHub page
-  * Under the link, add an image of the student, set the image's height to `250px`
+  * Under the link, add an image of the student
   * And finally, create an ordered list that contains a list item for each question and answer
     * Each question and answer should be stored in a single list item element (`<li>`)
