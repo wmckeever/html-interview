@@ -1,0 +1,49 @@
+div {
+  border: 3px solid blue;
+  padding: 25px;
+  box-shadow: 5px 5px 15px 5px #000000;
+  background-color: whitesmoke;
+  margin: auto;
+  width: 300px;
+}
+
+h1, h2 {
+  color:aliceblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+img {
+  border-radius: 50px;
+  box-shadow: 5px 5px 15px 5px #000000;
+  height: 350px;
+  width: 300px;
+}
+
+li {
+  margin: 10px;
+  font-style: italic;
+  color: aliceblue;
+}
+
+#title {
+  border: 3px solid grey;
+}
+
+ol {
+  color:aliceblue;
+  text-align: center;
+  font-size: 18px;
+}
+
+a {
+  color: aliceblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+hr {
+  color: grey;
+  box-shadow: 5px 5px 15px 5px #000000;
+}
+/* I fufilled the requirements of the stretch goals by adding a shadow around the <div> element. However you can't see it well because of the dark background I chose. So in addition I added a shadow to the image elements. */
